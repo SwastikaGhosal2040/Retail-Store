@@ -3,7 +3,6 @@
 -- PROJECT: Retail Store Analytics
 -- FILE: 02_clean.sql
 -- DATABASE: MySQL
--- Run this file only after the three *_stg staging tables have been imported.
 -- PURPOSE:
 --   1. Clean all three datasets.
 --   2. Convert raw text into appropriate data types.
